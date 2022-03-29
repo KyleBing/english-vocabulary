@@ -1,5 +1,6 @@
 # 中英文对照，英语词汇 txt
 
+
 所有 txt 的词序都是乱序，格式如下 `单词\t释义`
 ```
 boat	 n. 小船；轮船 v. 划船
@@ -24,3 +25,8 @@ Tuesday	 n. 星期二
 7. SAT
 
 该库是从 [https://github.com/kajweb/dict](https://github.com/kajweb/dict) 的 `json` 文件中转过来的
+
+
+## 初衷
+有些时候需要这个单词和释义的 txt 列表，只是单纯的乱序列表，网上找一圈全是文库里的还要充会员，恶心。
+有点分享精神好不好，所以放 github 了
