@@ -3519,7 +3519,7 @@ INSERT INTO CET6 (word,translate) VALUES ('tempo','n.速度；节奏，行进速
 INSERT INTO CET6 (word,translate) VALUES ('descendant','n.后裔，后代');
 INSERT INTO CET6 (word,translate) VALUES ('foresee','vt.预见，预知');
 INSERT INTO CET6 (word,translate) VALUES ('bruise','n.青肿，挫伤；伤痕，擦痕vt.打青，使受淤伤；挫伤，伤害');
-INSERT INTO CET6 (word,translate) VALUES ('associate','v.把…联系在一起；使联合，结合；交往[ə'səuʃiət]adj.副的n.伙伴，同事');
+INSERT INTO CET6 (word,translate) VALUES ('associate','v.把…联系在一起；使联合，结合；交往[ə\'səuʃiət]adj.副的n.伙伴，同事');
 INSERT INTO CET6 (word,translate) VALUES ('gown','n.女礼服，女裙服；长袍；罩衣');
 INSERT INTO CET6 (word,translate) VALUES ('crawl','n&v.爬行，蠕动；缓慢行进');
 INSERT INTO CET6 (word,translate) VALUES ('identical','adj.完全相同的，同一的');
