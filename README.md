@@ -71,8 +71,19 @@ Tuesday	n. 星期二
 ```
 
 
+## 三、其它 json 版本
 
-## 三、其它
+在文件夹 `原始 json` 下，有三个版本的 json 文件：
+
+| 文件夹           | 注释                             | 例子                                     |
+|---------------|--------------------------------|----------------------------------------|
+| json-full     | 原库的 json 文件格式化之后               | http://jsont.run/8KRYThGWlqaXy4CkppULF |
+| json-simple   | 原库的 json 文件只摘取词条、解释、短语         | http://jsont.run/V2U4W0l8tgKXQtY1cEOWe |
+| json-sentence | 原库的 json 文件只摘取词条、解释、短语、例句、英美音标 | http://jsont.run/ZjWHpf0lQ1Y-8VKU9Rkxh |
+
+
+
+## 四、其它
 
 该库是从 [https://github.com/kajweb/dict](https://github.com/kajweb/dict) 的 `json` 文件中转过来的
 
@@ -81,4 +92,5 @@ Tuesday	n. 星期二
 
 **初衷**
 有些时候需要单词和释义的 txt 列表，只是单纯的单词列表，结果网上找一圈全是文库里的，还要充会员，相当恶心。  
-有点分享精神好不好，为了方便大家用于学习使用放 github 了。
+有点分享精神好不好，为了方便大家用于学习使用放 github 了。  
+后来发现只有词条不够用，真正学习的时候还是需要例句才能更好的帮助单词记忆，所以又添加了其它版本的 json 文件。
