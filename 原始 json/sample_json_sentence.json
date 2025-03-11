@@ -1,0 +1,111 @@
+{
+  "word": "talk",
+  "us": "tɔk",
+  "uk": "tɔːk",
+  "translations": [
+    {
+      "translation": "说话；谈话",
+      "type": "v"
+    },
+    {
+      "translation": "交谈",
+      "type": "n"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "talk about",
+      "translation": "谈论某事"
+    },
+    {
+      "phrase": "talk to oneself",
+      "translation": "自言自语"
+    },
+    {
+      "phrase": "talk with",
+      "translation": "与…交谈"
+    },
+    {
+      "phrase": "talk of",
+      "translation": "谈论，议论；谈到，说到"
+    },
+    {
+      "phrase": "talk on",
+      "translation": "继续谈"
+    },
+    {
+      "phrase": "talk show",
+      "translation": "脱口秀；访谈节目"
+    },
+    {
+      "phrase": "let's talk",
+      "translation": "大学英语基础口语教程"
+    },
+    {
+      "phrase": "talking of",
+      "translation": "谈到"
+    },
+    {
+      "phrase": "small talk",
+      "translation": "闲聊；聊天"
+    },
+    {
+      "phrase": "talk over",
+      "translation": "讨论；详尽地商议；说服"
+    },
+    {
+      "phrase": "empty talk",
+      "translation": "空话，空谈"
+    },
+    {
+      "phrase": "have a talk",
+      "translation": "谈话；听报告"
+    },
+    {
+      "phrase": "talk at",
+      "translation": "影射；对…不停地说"
+    },
+    {
+      "phrase": "sweet talk",
+      "translation": "甜言蜜语"
+    },
+    {
+      "phrase": "big talk",
+      "translation": "大话；重要的会议"
+    },
+    {
+      "phrase": "pep talk",
+      "translation": "鼓舞士气的讲话"
+    },
+    {
+      "phrase": "idle talk",
+      "translation": "n. 闲谈，闲聊"
+    },
+    {
+      "phrase": "have a talk with",
+      "translation": "与…谈话"
+    },
+    {
+      "phrase": "talk on the phone",
+      "translation": "在电话中交谈"
+    },
+    {
+      "phrase": "talk business",
+      "translation": "谈生意；讲正经事"
+    }
+  ],
+  "sentences": [
+    {
+      "sentence": "I could hear Sarah and Andy talking in the next room.",
+      "translation": "我听到萨拉和安迪在隔壁讲话。"
+    },
+    {
+      "sentence": "Sue and Bob still aren’t talking (= are refusing to talk to each other ) .",
+      "translation": "休和鲍勃仍然互不理睬。"
+    },
+    {
+      "sentence": "After a long talk , we decided on divorce.",
+      "translation": "经过一次长谈后，我们决定离婚。"
+    }
+  ]
+}

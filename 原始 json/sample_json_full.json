@@ -1,0 +1,224 @@
+{
+  "wordRank": 18,
+  "headWord": "talk",
+  "content": {
+    "word": {
+      "wordHead": "talk",
+      "wordId": "PEPChuZhong7_2_18",
+      "content": {
+        "sentence": {
+          "sentences": [
+            {
+              "sContent": "I could hear Sarah and Andy talking in the next room.",
+              "sCn": "我听到萨拉和安迪在隔壁讲话。"
+            },
+            {
+              "sContent": "Sue and Bob still aren’t talking (= are refusing to talk to each other ) .",
+              "sCn": "休和鲍勃仍然互不理睬。"
+            },
+            {
+              "sContent": "After a long talk , we decided on divorce.",
+              "sCn": "经过一次长谈后，我们决定离婚。"
+            }
+          ],
+          "desc": "例句"
+        },
+        "usphone": "tɔk",
+        "syno": {
+          "synos": [
+            {
+              "pos": "vt",
+              "tran": "说；谈话；讨论",
+              "hwds": [
+                {
+                  "w": "quo"
+                },
+                {
+                  "w": "tell"
+                },
+                {
+                  "w": "observe"
+                },
+                {
+                  "w": "debate"
+                }
+              ]
+            },
+            {
+              "pos": "vi",
+              "tran": "谈话；说闲话",
+              "hwds": [
+                {
+                  "w": "jerk chin music"
+                },
+                {
+                  "w": "dialogize"
+                }
+              ]
+            },
+            {
+              "pos": "n",
+              "tran": "谈话；演讲；空谈",
+              "hwds": [
+                {
+                  "w": "speech"
+                },
+                {
+                  "w": "address"
+                },
+                {
+                  "w": "lecture"
+                },
+                {
+                  "w": "discourse"
+                }
+              ]
+            }
+          ],
+          "desc": "同近"
+        },
+        "ukphone": "tɔːk",
+        "ukspeech": "talk&type=1",
+        "phrase": {
+          "phrases": [
+            {
+              "pContent": "talk about",
+              "pCn": "谈论某事"
+            },
+            {
+              "pContent": "talk to oneself",
+              "pCn": "自言自语"
+            },
+            {
+              "pContent": "talk with",
+              "pCn": "与…交谈"
+            },
+            {
+              "pContent": "talk of",
+              "pCn": "谈论，议论；谈到，说到"
+            },
+            {
+              "pContent": "talk on",
+              "pCn": "继续谈"
+            },
+            {
+              "pContent": "talk show",
+              "pCn": "脱口秀；访谈节目"
+            },
+            {
+              "pContent": "let's talk",
+              "pCn": "大学英语基础口语教程"
+            },
+            {
+              "pContent": "talking of",
+              "pCn": "谈到"
+            },
+            {
+              "pContent": "small talk",
+              "pCn": "闲聊；聊天"
+            },
+            {
+              "pContent": "talk over",
+              "pCn": "讨论；详尽地商议；说服"
+            },
+            {
+              "pContent": "empty talk",
+              "pCn": "空话，空谈"
+            },
+            {
+              "pContent": "have a talk",
+              "pCn": "谈话；听报告"
+            },
+            {
+              "pContent": "talk at",
+              "pCn": "影射；对…不停地说"
+            },
+            {
+              "pContent": "sweet talk",
+              "pCn": "甜言蜜语"
+            },
+            {
+              "pContent": "big talk",
+              "pCn": "大话；重要的会议"
+            },
+            {
+              "pContent": "pep talk",
+              "pCn": "鼓舞士气的讲话"
+            },
+            {
+              "pContent": "idle talk",
+              "pCn": "n. 闲谈，闲聊"
+            },
+            {
+              "pContent": "have a talk with",
+              "pCn": "与…谈话"
+            },
+            {
+              "pContent": "talk on the phone",
+              "pCn": "在电话中交谈"
+            },
+            {
+              "pContent": "talk business",
+              "pCn": "谈生意；讲正经事"
+            }
+          ],
+          "desc": "短语"
+        },
+        "relWord": {
+          "desc": "同根",
+          "rels": [
+            {
+              "pos": "adj",
+              "words": [
+                {
+                  "hwd": "talking",
+                  "tran": "说话的，多嘴的；有表情的"
+                }
+              ]
+            },
+            {
+              "pos": "n",
+              "words": [
+                {
+                  "hwd": "talking",
+                  "tran": "讲话，谈论"
+                },
+                {
+                  "hwd": "talker",
+                  "tran": "说话的人；健谈者；空谈者"
+                }
+              ]
+            },
+            {
+              "pos": "v",
+              "words": [
+                {
+                  "hwd": "talking",
+                  "tran": "谈论；讲话（talk的ing形式）"
+                }
+              ]
+            }
+          ]
+        },
+        "usspeech": "talk&type=2",
+        "trans": [
+          {
+            "tranCn": "说话；谈话",
+            "descOther": "英释",
+            "pos": "v",
+            "descCn": "中释",
+            "tranOther": "to say things to someone as part of a conversation"
+          },
+          {
+            "tranCn": "交谈",
+            "descOther": "英释",
+            "pos": "n",
+            "descCn": "中释",
+            "tranOther": "a conversation"
+          }
+        ]
+      }
+    }
+  },
+  "bookId": "PEPChuZhong7_2"
+}
