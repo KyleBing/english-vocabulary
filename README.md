@@ -73,13 +73,13 @@ Tuesday	n. 星期二
 
 ## 三、其它 json 版本
 
-在文件夹 `原始 json` 下，有三个版本的 json 文件：
+在文件夹 `json_original` 下，有三个版本的 json 文件：
 
-| 文件夹           | 注释                             | 例子                                                               |
-|---------------|--------------------------------|------------------------------------------------------------------|
-| json-full     | 原库的 json 文件格式化之后，包含最全的信息       | [sample_json_full.json](./原始 json/sample_json_full.json)         |
-| json-simple   | 原库的 json 文件只摘取词条、解释、短语         | [sample_json_simple.json](./原始 json/sample_json_simple.json)     |
-| json-sentence | 原库的 json 文件只摘取词条、解释、短语、例句、英美音标 | [sample_json_sentence.json](./原始 json/sample_json_sentence.json) |
+| 文件夹           | 注释                             | 例子                                                                     |
+|---------------|--------------------------------|------------------------------------------------------------------------|
+| json-full     | 原库的 json 文件格式化之后，包含最全的信息       | [sample_json_full.json](./json_original/sample_json_full.json)         |
+| json-simple   | 原库的 json 文件只摘取词条、解释、短语         | [sample_json_simple.json](./json_original/sample_json_simple.json)     |
+| json-sentence | 原库的 json 文件只摘取词条、解释、短语、例句、英美音标 | [sample_json_sentence.json](./json_original/sample_json_sentence.json) |
 
 
 
