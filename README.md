@@ -85,12 +85,9 @@ Tuesday	n. 星期二
 
 ## 四、其它
 
-该库是从 [https://github.com/kajweb/dict](https://github.com/kajweb/dict) 的 `json` 文件中转过来的
+[**https://github.com/kajweb/dict**](https://github.com/kajweb/dict) → fork → [**https://github.com/KyleBing/dict**](https://github.com/KyleBing/dict) → 简化 → 本库
 
-原文件可以看我 fork 出来的库：  
-[https://github.com/KyleBing/dict](https://github.com/KyleBing/dict)
-
-**初衷**
+**初衷**  
 有些时候需要单词和释义的 txt 列表，只是单纯的单词列表，结果网上找一圈全是文库里的，还要充会员，相当恶心。  
 有点分享精神好不好，为了方便大家用于学习使用放 github 了。  
 后来发现只有词条不够用，真正学习的时候还是需要例句才能更好的帮助单词记忆，所以又添加了其它版本的 json 文件。
