@@ -4,17 +4,18 @@
 1. 乱序 txt 版本，只包含词条和注释，格式： `单词\t释义`
 2. 顺序 json 版本，包含词条、多条注释、多条词组及注释
 
-两个版本的词条数量是一样的
+两个版本的词条数量是一样的，合计 **54,356**。
 
-|   | 类别  |  单词数量 |
-|---|-----|------:|
-| 1 | 初中  |  3223 |
-| 2 | 高中  |  6008 |
-| 3 | 四级  |  7508 |
-| 4 | 六级  |  5651 |
-| 5 | 考研  |  9602 |
-| 6 | 托福  | 13477 |
-| 7 | SAT |  8887 |
+|   | 类别  |  单词数量 | |
+|---|-----|------:|--|
+| 1 | 初中  |  3,223 | `███░░░░░░░░` |
+| 2 | 高中  |  6,008 | `█████░░░░░░` |
+| 3 | 四级  |  7,508 | `██████░░░░░` |
+| 4 | 六级  |  5,651 | `█████░░░░░░` |
+| 5 | 考研  |  9,602 | `████████░░░` |
+| 6 | 托福  | 13,477 | `███████████` |
+| 7 | SAT |  8,887 | `███████░░░░` |
+
 
 ## 一、 txt 版本的文件内容
 
@@ -71,15 +72,25 @@ Tuesday	n. 星期二
 ```
 
 
-## 三、其它 json 版本
+## 三、按行分割的内容
 
-在文件夹 `json_original` 下，有三个版本的 json 文件：
+### JSONL
 
-| 文件夹           | 注释                             | 例子                                                                     |
-|---------------|--------------------------------|------------------------------------------------------------------------|
-| json-full     | 原库的 json 文件格式化之后，包含最全的信息       | [sample_json_full.json](./json_original/sample_json_full.json)         |
-| json-simple   | 原库的 json 文件只摘取词条、解释、短语         | [sample_json_simple.json](./json_original/sample_json_simple.json)     |
-| json-sentence | 原库的 json 文件只摘取词条、解释、短语、例句、英美音标 | [sample_json_sentence.json](./json_original/sample_json_sentence.json) |
+正式 JSON 在 `full_line_jsonl`：一词一行，同一本书的分册已合并，按正序 / 乱序分开放（例如 `sentence/正序/四级.jsonl`）。
+
+| 目录 | 注释 | 例子 |
+|------|------|------|
+| simple | 词条、解释、短语 | [sample_simple.jsonl](./full_line_jsonl/sample_simple.jsonl) |
+| sentence | 再加上音标、例句 | [sample_sentence.jsonl](./full_line_jsonl/sample_sentence.jsonl) |
+| full | 原库完整结构（同近义、同根、真题等） | [sample_full.jsonl](./full_line_jsonl/sample_full.jsonl) |
+
+说明见 [full_line_jsonl/README.md](./full_line_jsonl/README.md)。
+
+### TSV
+
+同一套目录，嵌套拍成 Tab 分隔，放在 `full_line_tsv`。
+
+格式说明见 [full_line_tsv/README.md](./full_line_tsv/README.md)，从 JSONL 生成：`python3 scripts/json_to_line.py`
 
 
 
