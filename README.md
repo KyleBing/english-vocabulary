@@ -117,10 +117,10 @@ Tuesday	n. 星期二
 ## 六、衍生项目
 
 
-| 项目图标                                                                   | 项目名       | 作者                                      | github                                                                           |
-| ---------------------------------------------------------------------- | --------- | --------------------------------------- | -------------------------------------------------------------------------------- |
-| ![](https://github.com/heygsc/word-wind/blob/main/doc/logo-big.png)    | Word Wind | [heygsc](https://github.com/heygsc)     | [https://github.com/heygsc/word-wind](https://github.com/heygsc/word-wind)       |
-| ![](https://github.com/KyleBing/vocabulary/raw/master/public/logo.png) | 蚕食        | [KyleBing](https://github.com/KyleBing) | [https://github.com/KyleBing/vocabulary](https://github.com/KyleBing/vocabulary) |
+| 项目图标 | 项目名 | 作者 | github |
+|---|---|---|---|
+| <img width="50" src="https://github.com/heygsc/word-wind/blob/main/doc/logo-big.png"/> | Word Wind | [heygsc](https://github.com/heygsc) | [https://github.com/heygsc/word-wind](https://github.com/heygsc/word-wind) | 
+| <img width="50" src="https://github.com/KyleBing/vocabulary/raw/master/public/logo.png"/> |  蚕食 | [KyleBing](https://github.com/KyleBing) |  [https://github.com/KyleBing/vocabulary](https://github.com/KyleBing/vocabulary) | 
 
 
 ---
