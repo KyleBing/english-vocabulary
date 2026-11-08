@@ -119,8 +119,11 @@ Tuesday	n. 星期二
 
 | 项目图标 | 项目名 | 作者 | github |
 |---|---|---|---|
-| <img width="50" src="https://github.com/heygsc/word-wind/blob/main/doc/logo-big.png"/> | Word Wind | [heygsc](https://github.com/heygsc) | [https://github.com/heygsc/word-wind](https://github.com/heygsc/word-wind) | 
 | <img width="50" src="https://github.com/KyleBing/vocabulary/raw/master/public/logo.png"/> |  蚕食 | [KyleBing](https://github.com/KyleBing) |  [https://github.com/KyleBing/vocabulary](https://github.com/KyleBing/vocabulary) | 
+| <img width="50" src="https://github.com/heygsc/word-wind/blob/main/doc/logo-big.png"/> | Word Wind | [heygsc](https://github.com/heygsc) | [https://github.com/heygsc/word-wind](https://github.com/heygsc/word-wind) | 
+| <img width="50" src="https://raw.githubusercontent.com/KyleBing/bbq10-vocabulary/main/design/ic_launcher_1024.png"/> |  Vocabulary | [KyleBing](https://github.com/KyleBing) |  [https://github.com/KyleBing/bbq10-vocabulary](https://github.com/KyleBing/bbq10-vocabulary) | 
+
+
 
 
 ---
